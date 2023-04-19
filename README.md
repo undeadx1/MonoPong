@@ -15,7 +15,7 @@ Can be used as a decorative element or as part of a loading screen.
 Implemented in a single GameObject with a RawImage component.
 
 
-#How It Works
+# How It Works
 The MonoPong script defines a minimalistic Pong-style game using only a RawImage component. The game automatically plays, with the paddles and ball moving on their own. When the ball hits a paddle, sparks appear, adding a visual effect. The ball also leaves a trail, creating a smooth motion effect.
 
 
