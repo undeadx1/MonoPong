@@ -22,13 +22,23 @@ The MonoPong script defines a minimalistic Pong-style game using only a RawImage
 
 # The script is divided into several methods:
 InitializeGame: Initializes the game by setting the ball and paddles' positions.
+
 Update: Updates the ball and paddles' positions and redraws the game.
-UpdateBall: Updates the ball's position, checks for collisions with the paddles, and adds sparks when a collision occurs.
+
+UpdateBall: Updates the ball's position, checks for collisions with the paddles, 
+and adds sparks when a collision occurs.
+
 UpdatePaddles: Updates the paddles' positions based on the ball's position.
-DrawGame: Draws the game elements on the RawImage, including the ball, paddles, trail, and sparks.
+
+DrawGame: Draws the game elements on the RawImage, 
+including the ball, paddles, trail, and sparks.
+
 ClearTexture: Clears the game's texture.
+
 DrawRect: Draws a rectangle on the texture.
+
 DrawSpark: Draws sparks at a given position.
+
 DrawCircle: Draws a circle on the texture.
 
 
