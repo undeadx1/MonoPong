@@ -1,5 +1,4 @@
 # MonoPong
-MonoPong: A Minimalistic Pong in Unity Engine
 MonoPong is a minimalistic Pong-style game implemented in a single Unity game object using only a RawImage component. The game is designed to be visually appealing and can be used as a decorative or background element, or as a loading screen element. One of the main features of this project is that it does not require any additional graphic files or objects.
 
 
